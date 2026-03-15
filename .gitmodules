@@ -1,0 +1,3 @@
+[submodule "supercollider-experiments"]
+	path = supercollider-experiments
+	url = https://github.com/dethbird/supercollider-experiments
